@@ -38,6 +38,7 @@ Kolom yang Tidak Ada: Pastikan array dalam variabel $data hanya berisi nama kolo
 
 3. Simpan kode program Langkah 1 dan 2. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
 Yang terjadi user dengan id 1 ditampilkan
+
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/89c19ce4-9cba-44ed-bb47-30523f7095b2)
 
 4. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
@@ -87,3 +88,16 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 5. Laporkan hasil Praktikum-2.2 ini dan commit perubahan pada git
 - Yang terjadi adalah karena user dengan username ‘manager9’ tidak ditemukan maka google mengembalikan halaman ‘NOT FOUND’
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/88875b64-cf04-45d7-8b87-31b110666d92)
+
+## Praktikum 2.3 – Retreiving Aggregrates
+1. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/6c049463-1db0-4abe-952a-b88f1772f2b3)
+
+2. Simpan kode program Langkah 1. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/a339b30a-b72f-4962-a412-f028e4a1882f)
+
+3. Buat agar jumlah script pada langkah 1 bisa tampil pada halaman browser, sebagai contoh bisa lihat gambar di bawah ini dan ubah script pada file view supaya bisa muncul datanya
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/4737dbfa-f457-4a06-a790-f0c951503a1a)
+
+4. Laporkan hasil Praktikum-2.3 ini dan commit perubahan pada git.
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/bf7a9429-d50a-4c9f-826a-c77d350ee358)
