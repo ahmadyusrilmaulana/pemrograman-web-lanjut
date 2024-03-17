@@ -122,3 +122,24 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 5. Simpan kode program Langkah 4. Kemudian jalankan pada browser dan amati apa yang terjadi dan cek juga pada phpMyAdmin pada tabel m_user serta beri penjelasan dalam laporan
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/e7ca6768-6256-4261-bae2-a7bea5817bf8)
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/32f86d8f-47a9-4414-8431-22274ecf76e4)
+
+6. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/cb7a1afa-42a6-49fe-8de0-d5320878e500)
+
+7. Simpan kode program Langkah 6. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/a4034be0-4333-4648-b743-cb0a45d8f1e7)
+
+8. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/1ec2e0b2-9620-4ea4-9ca7-1734cdb9b00e)
+
+9. Simpan kode program Langkah 8. Kemudian jalankan pada browser dan amati apa yang terjadi dan cek juga pada phpMyAdmin pada tabel m_user serta beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/c1ba9a32-c79f-48d7-9117-d9a5d4aff2c4)
+
+10. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/9d901c73-b1e5-4a79-9868-66245c0400a5)
+
+11. Simpan kode program Langkah 9. Kemudian jalankan pada browser dan amati apa yang terjadi dan cek juga pada phpMyAdmin pada tabel m_user serta beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/ac29bb92-a108-4a95-b3a9-0d0c691f4cf8)
+
+13. Laporkan hasil Praktikum-2.4 ini dan commit perubahan pada git.
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/b047737e-e98c-4496-89b3-cec3e8f8b949)
