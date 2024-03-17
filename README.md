@@ -14,9 +14,9 @@
 6. Simpan kode program Langkah 4 dan 5. Kemudian jalankan pada browser dan amati apa yang terjadi
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/b601b079-9a4c-45dc-8db6-f9fb4d22ac05)
 7. Laporkan hasil Praktikum-1 ini dan commit perubahan pada git.
-1. Error pada Bagian $fillable:
+- Error pada Bagian $fillable:
 Kolom Tidak Terdaftar: Pastikan semua kolom yang ingin Anda masukkan secara massal (mass assignment) dalam model telah terdaftar di dalam properti $fillable. Jika kolom yang ingin Anda masukkan tidak terdaftar di sana, Anda akan menerima kesalahan.
-2. Error pada Bagian Array pada Variabel $data:
+- Error pada Bagian Array pada Variabel $data:
 Kolom yang Tidak Ada: Pastikan array dalam variabel $data hanya berisi nama kolom yang sesuai dengan nama kolom pada model Anda. Jika ada nama kolom yang tidak sesuai atau tidak ada dalam model, Anda akan menerima kesalahan.
 
 ### PRAKTIKUM 2.1 – Retrieving Single Models
@@ -26,21 +26,21 @@ Kolom yang Tidak Ada: Pastikan array dalam variabel $data hanya berisi nama kolo
 2. Buka file view dengan nama user.blade.php dan ubah script seperti gambar di bawah ini
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/f0e89011-1e62-4615-b20a-7b0a646b8072)
 3. Simpan kode program Langkah 1 dan 2. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
-1. Yang terjadi user dengan id 1 ditampilkan
+- Yang terjadi user dengan id 1 ditampilkan
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/89c19ce4-9cba-44ed-bb47-30523f7095b2)
 4. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/440d32c2-c449-463a-b130-3fa9a552a3e3)
 5. Simpan kode program Langkah 4. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
-1. menampilkan user dengan level id 1
+- menampilkan user dengan level id 1
 6. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/998ef584-9ddf-4730-b7ef-6dff811c0ccd)
 7. Simpan kode program Langkah 6. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
-1. menampilkan user dengan level id 1
+- menampilkan user dengan level id 1
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/c8cbbcdf-e940-436f-8322-e1ec3a5b2fb1)
 8. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/b0229e30-8894-4732-9747-fe32d0d638b3)
 9. Simpan kode program Langkah 8. Kemudian pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
-1. Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, nama
+- Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, nama
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/3e95bcda-db4c-4b27-9351-85676cc25adc)
 10. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/18970ea3-1e94-4b7f-b71a-20ca844e79e1)
