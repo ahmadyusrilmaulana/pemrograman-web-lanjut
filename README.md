@@ -38,7 +38,6 @@ Kolom yang Tidak Ada: Pastikan array dalam variabel $data hanya berisi nama kolo
 
 3. Simpan kode program Langkah 1 dan 2. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
 Yang terjadi user dengan id 1 ditampilkan
-
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/89c19ce4-9cba-44ed-bb47-30523f7095b2)
 
 4. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
@@ -77,6 +76,7 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 
 2. Simpan kode program Langkah 1. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
 - kode diatas adalah perintah untuk mencari user 1 dengan ID 1
+
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/31ea9680-4895-4286-9a33-df8a8dac55be)
 
 3. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
