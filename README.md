@@ -6,8 +6,7 @@
 2. Buka file controller dengan nama UserController.php dan ubah script untuk menambahkan data baru seperti gambar di bawah ini
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/a64f2041-5d63-4a10-b23c-28bd5c15274a)
 3. Simpan kode program Langkah 1 dan 2, dan jalankan perintah web server. Kemudian jalankan link localhostPWL_POS/public/user pada browser dan amati apa yang terjadi
-
-![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/6ffe1e28-ad88-41ee-b688-9f002824ffad)
+- ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/6ffe1e28-ad88-41ee-b688-9f002824ffad)
 5. Ubah file model UserModel.php seperti pada gambar di bawah ini pada bagian $fillable
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/ca4e5941-b264-42e0-adad-e4c367e55f55)
 6. Ubah kembali file controller UserController.php seperti pada gambar di bawah hanya bagian array pada $data
