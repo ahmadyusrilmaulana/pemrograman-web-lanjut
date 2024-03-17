@@ -1,3 +1,8 @@
+NAMA : AHMAD YUSRIL MAULANA.BD
+KELAS : SIB3C
+NIM : 2141762127
+MATA KULIAH : PEMROGRAMAN WEB LANJUT 
+
 ### JOBSHEET 04 Model dan Eloquentorm
 
 ### PRAKTIKUM 1 $fillable:
@@ -144,3 +149,113 @@ program tidak menambahkan database dibawah ini
 
 12. Laporkan hasil Praktikum-2.4 ini dan commit perubahan pada git.
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/b047737e-e98c-4496-89b3-cec3e8f8b949)
+
+## Praktikum 2.5 – Attribute Changes
+1. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/dc61448b-8c64-4c46-80f9-0b544fdefb55)
+
+2. Simpan kode program Langkah 1. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/58b2d7f8-7049-422f-a97f-1dc50f4f9f85)
+
+3. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/68959c2f-99e5-4f60-8ea8-864fbcf717c0)
+
+4. Simpan kode program Langkah 3. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/50d5b431-f1c2-4d39-9561-340f0f056b3f)
+
+6. Laporkan hasil Praktikum-2.5 ini dan commit perubahan pada git.
+- Perubahan Kode: Pastikan Anda sudah melakukan semua perubahan yang diperlukan pada kode sesuai dengan praktikum yang Anda selesaikan.
+- Tambahkan Perubahan ke Staging Area: Gunakan perintah git add . untuk menambahkan semua perubahan yang Anda lakukan ke dalam staging area. Jika Anda hanya ingin menambahkan file tertentu, gantilah . dengan nama file yang ingin ditambahkan.
+
+## Praktikum 2.6 – Create, Read, Update, Delete (CRUD)
+1. Buka file view pada user.blade.php dan buat scritpnya menjadi seperti di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/85be052c-05b7-4ffa-b2b6-b128c88007a9)
+
+2. Buka file controller pada UserController.php dan buat scriptnya untuk read menjadi seperti di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/c1d9d6cc-e8ea-480f-b5eb-339e6fe8fa21)
+
+3. Simpan kode program Langkah 1 dan 2. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/d3945bc0-d76c-474f-8b35-520f43f03293)
+
+4. Langkah berikutnya membuat create atau tambah data user dengan cara bikin file baru pada view dengan nama user_tambah.blade.php dan buat scriptnya menjadi seperti di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/5274b718-c064-4896-99b4-092c27d42c9a)
+
+5. Tambahkan script pada routes dengan nama file web.php. Tambahkan seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/b91065da-1b0c-42be-aa55-106fd71cc9cc)
+
+6. Tambahkan script pada controller dengan nama file UserController.php. Tambahkan script dalam class dan buat method baru dengan nama tambah dan diletakan di bawah method index seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/3cdb3856-14de-4e2b-a073-7d88b1b7f719)
+
+7. Simpan kode program Langkah 4 s/d 6. Kemudian jalankan pada browser dan klik link “+ Tambah User” amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/bc1d9a5e-7413-4834-ba53-bda95acc133e)
+
+8. Tambahkan script pada routes dengan nama file web.php. Tambahkan seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/2327947a-5127-445c-80af-d0ad71ba8ba5)
+
+9. Tambahkan script pada controller dengan nama file UserController.php. Tambahkanscript dalam class dan buat method baru dengan nama tambah_simpan dan diletakan di
+bawah method tambah seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/2811ddb0-7983-4982-b99e-a98cc2d7c3f9)
+
+10. Simpan kode program Langkah 8 dan 9. Kemudian jalankan link localhost:8000/user/tambah atau localhost/PWL_POS/public/user/tambah pada browser dan input formnya dan simpan, kemudian amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/d7189e89-c6fe-45ab-bcde-06b4b00563a8)
+
+11. Langkah berikutnya membuat update atau ubah data user dengan cara bikin file barupada view dengan nama user_ubah.blade.php dan buat scriptnya menjadi seperti di
+bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/c91d1be9-c795-43af-b0f1-ebcbd2bc51d2)
+
+12. Tambahkan script pada routes dengan nama file web.php. Tambahkan seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/d0e567ca-acbf-443c-b1b8-168265c31605)
+
+13. Tambahkan script pada controller dengan nama file UserController.php. Tambahkan script dalam class dan buat method baru dengan nama ubah dan diletakan di bawah
+method tambah_simpan seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/26c823ef-9cc2-4f97-a60e-5a557138bcc8)
+
+14. Simpan kode program Langkah 11 sd 13. Kemudian jalankan pada browser dan klik link “Ubah” amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/7ee18bb9-ed71-4ec2-b07a-d4eac95a8b06)
+
+15. Tambahkan script pada routes dengan nama file web.php. Tambahkan seperti gambar di
+bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/d95f4f38-efd7-4dda-b087-2cbeb9f4364e)
+
+16. Tambahkan script pada controller dengan nama file UserController.php. Tambahkan script dalam class dan buat method baru dengan nama ubah_simpan dan diletakan di
+bawah method ubah seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/fa66ad08-f1cb-4ea3-8533-2419061ee37c)
+
+17. Simpan kode program Langkah 15 dan 16. Kemudian jalankan link localhost:8000/user/ubah/1 atau localhost/PWL_POS/public/user/ubah/1 pada
+browser dan ubah input formnya dan klik tombol ubah, kemudian amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/4d8b44a6-5095-4427-9ac7-1e11eb6353ef)
+
+18. Berikut untuk langkah delete . Tambahkan script pada routes dengan nama file web.php. Tambahkan seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/55b75edf-c786-4698-80e7-6d5cc5452d1c)
+
+19. Tambahkan script pada controller dengan nama file UserController.php. Tambahkan script dalam class dan buat method baru dengan nama hapus dan diletakan di bawah
+method ubah_simpan seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/74eb24ea-b349-433c-8c50-50d858e26f24)
+
+20. Simpan kode program Langkah 18 dan 19. Kemudian jalankan pada browser dan klik tombol hapus, kemudian amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/f26d652f-e880-4aa8-b5a1-4dcd4f2a94e9)
+
+22. Laporkan hasil Praktikum-2.6 ini dan commit perubahan pada git.
+- hasil praktikum penambahan fitur Create, Read, Update, dan Delete.
+
+## Praktikum 2.7 – Relationships
+1. Buka file model pada UserModel.php dan tambahkan scritpnya menjadi seperti di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/79a5563c-cdca-48ee-9135-5ca25044525a)
+
+2. Buka file controller pada UserController.php dan ubah method script menjadi seperti di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/8bf108a0-f5d4-4f6e-be20-42f0bd33772f)
+
+3. Simpan kode program Langkah 2. Kemudian jalankan link pada browser, kemudian amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/277a687e-aa5d-455a-ba84-fa9727ea382f)
+
+4. Buka file controller pada UserController.php dan ubah method script menjadi seperti di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/d8a0ee61-5d88-468c-bfa4-9510cc96cdc0)
+
+5. Buka file view pada user.blade.php dan ubah script menjadi seperti di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/d924d623-1a32-4299-aba0-b0e7c68f18ab)
+
+6. Simpan kode program Langkah 4 dan 5. Kemudian jalankan link pada browser, kemudian amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/17d9ca14-3853-4333-8df4-49adc0b7479e)
+
+7. Laporkan hasil Praktikum-2.7 ini dan commit perubahan pada git.
+- hasil data relasi level 
