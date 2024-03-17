@@ -70,3 +70,19 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 
 12. Laporkan hasil Praktikum-2.1 ini dan commit perubahan pada git.
 
+## Praktikum 2.2 – Not Found Exceptions
+1. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/735e17cb-5661-4c92-8aac-2b694ac0525f)
+
+2. Simpan kode program Langkah 1. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+- kode diatas adalah perintah untuk mencari user 1 dengan ID 1
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/31ea9680-4895-4286-9a33-df8a8dac55be)
+
+3. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/7a084a49-6f35-44cc-b140-483057c639d0)
+
+4. Simpan kode program Langkah 3. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/88875b64-cf04-45d7-8b87-31b110666d92)
+5. Laporkan hasil Praktikum-2.2 ini dan commit perubahan pada git
+- Yang terjadi adalah karena user dengan username ‘manager9’ tidak ditemukan maka google mengembalikan halaman ‘NOT FOUND’
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/88875b64-cf04-45d7-8b87-31b110666d92)
