@@ -94,10 +94,12 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/6c049463-1db0-4abe-952a-b88f1772f2b3)
 
 2. Simpan kode program Langkah 1. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/a339b30a-b72f-4962-a412-f028e4a1882f)
 
 3. Buat agar jumlah script pada langkah 1 bisa tampil pada halaman browser, sebagai contoh bisa lihat gambar di bawah ini dan ubah script pada file view supaya bisa muncul datanya
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/4737dbfa-f457-4a06-a790-f0c951503a1a)
 
 4. Laporkan hasil Praktikum-2.3 ini dan commit perubahan pada git.
+
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/bf7a9429-d50a-4c9f-826a-c77d350ee358)
