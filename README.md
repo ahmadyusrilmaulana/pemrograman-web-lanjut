@@ -59,6 +59,7 @@ menampilkan user dengan level id 1
 
 9. Simpan kode program Langkah 8. Kemudian pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
 Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, nama
+
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/3e95bcda-db4c-4b27-9351-85676cc25adc)
 
 10. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
@@ -68,3 +69,4 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/4a1b9c7d-3f52-477b-916a-2a346ba09819)
 
 12. Laporkan hasil Praktikum-2.1 ini dan commit perubahan pada git.
+
