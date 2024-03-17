@@ -127,6 +127,7 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/cb7a1afa-42a6-49fe-8de0-d5320878e500)
 
 7. Simpan kode program Langkah 6. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+program tidak menambahkan database dibawah ini
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/a4034be0-4333-4648-b743-cb0a45d8f1e7)
 
 8. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
@@ -141,5 +142,5 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 11. Simpan kode program Langkah 9. Kemudian jalankan pada browser dan amati apa yang terjadi dan cek juga pada phpMyAdmin pada tabel m_user serta beri penjelasan dalam laporan
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/ac29bb92-a108-4a95-b3a9-0d0c691f4cf8)
 
-13. Laporkan hasil Praktikum-2.4 ini dan commit perubahan pada git.
+12. Laporkan hasil Praktikum-2.4 ini dan commit perubahan pada git.
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/b047737e-e98c-4496-89b3-cec3e8f8b949)
