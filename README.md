@@ -104,3 +104,21 @@ Script diatas menampilkan user dengan id 1 yang hanya mengambil kolom username, 
 4. Laporkan hasil Praktikum-2.3 ini dan commit perubahan pada git.
 
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/bf7a9429-d50a-4c9f-826a-c77d350ee358)
+
+## Praktikum 2.4 – Retreiving or Creating Models
+1. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/b8127230-8e42-427c-b5c2-e2c4f56c639b)
+
+2. Ubah kembali file view dengan nama user.blade.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/95f4d922-e2b2-4107-af12-db4ca45c25ba)
+
+3. Simpan kode program Langkah 1 dan 2. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
+
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/047051a1-9b75-4d73-9b87-a9765bf2b99b)
+
+4. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/d09adc73-2a5d-4d72-8c4c-b4889b2d2003)
+
+5. Simpan kode program Langkah 4. Kemudian jalankan pada browser dan amati apa yang terjadi dan cek juga pada phpMyAdmin pada tabel m_user serta beri penjelasan dalam laporan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/e7ca6768-6256-4261-bae2-a7bea5817bf8)
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/32f86d8f-47a9-4414-8431-22274ecf76e4)
