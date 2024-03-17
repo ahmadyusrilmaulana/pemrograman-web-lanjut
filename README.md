@@ -36,7 +36,7 @@ Yang terjadi user dengan id 1 ditampilkan
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/998ef584-9ddf-4730-b7ef-6dff811c0ccd)
 # 7. Simpan kode program Langkah 6. Kemudian jalankan pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
 menampilkan user dengan level id 1
-![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/c8cbbcdf-e940-436f-8322-e1ec3a5b2fb1)
+- ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/c8cbbcdf-e940-436f-8322-e1ec3a5b2fb1)
 # 8. Ubah file controller dengan nama UserController.php dan ubah script seperti gambar di bawah ini
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/b0229e30-8894-4732-9747-fe32d0d638b3)
 # 9. Simpan kode program Langkah 8. Kemudian pada browser dan amati apa yang terjadi dan beri penjelasan dalam laporan
