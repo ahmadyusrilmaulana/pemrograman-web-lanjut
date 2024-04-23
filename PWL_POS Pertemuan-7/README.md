@@ -6,9 +6,10 @@ Program Studi : D4 – Teknik Informatika / D4 – Sistem Informasi Bisnis#
 
 Semester : 6 (enam)#
 
-#JOBSHEET 07 PWL (Pemrograman Website Lanjut)#
+##JOBSHEET 07 PWL (Pemrograman Website Lanjut)
 
-#Praktikum 1 – Layouting AdminLTE#
+Praktikum 1 – Layouting AdminLTE
+
 Selamat kalian sudah selesai dalam melakukan layouting website di laravel
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/229641a5-6447-4f2c-92aa-eddea560fbdc)
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/1bacb950-4e96-42f5-a90f-3e071cff8007)
