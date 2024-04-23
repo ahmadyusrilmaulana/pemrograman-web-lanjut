@@ -1,7 +1,7 @@
-#Nama : Ahmad Yusril Maulana.BD
-#Mata Kuliah : Pemrograman Web Lanjut (PWL)
-#Program Studi : D4 – Teknik Informatika / D4 – Sistem Informasi Bisnis
-#Semester : 6 (enam) 
+#Nama : Ahmad Yusril Maulana.BD#
+#Mata Kuliah : Pemrograman Web Lanjut (PWL)#
+#Program Studi : D4 – Teknik Informatika / D4 – Sistem Informasi Bisnis#
+#Semester : 6 (enam)#
 
 #JOBSHEET 07 PWL (Pemrograman Website Lanjut)#
 
