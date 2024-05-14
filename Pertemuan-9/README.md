@@ -11,7 +11,7 @@ Semester : 6 (enam)
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/58a0d6fe-b440-4411-8233-4cacca674414)
 
 ## Halaman login sebagai Admin
-![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/522b8850-1d6b-423e-baf0-222a99b7d5df)
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/9dcd5999-e800-4756-9879-d7b96caa35a7)
 
 ## Halaman login sebagai Manager 
 ![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/f8ff2c36-9fdd-4a3f-a375-a009a93ad4f5)
