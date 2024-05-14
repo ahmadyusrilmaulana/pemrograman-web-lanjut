@@ -1,66 +1,95 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+Nama : Ahmad Yusril Maulana.BD
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Mata Kuliah : Pemrograman Web Lanjut (PWL)
 
-## About Laravel
+Program Studi : D4 – Teknik Informatika / D4 – Sistem Informasi Bisnis
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Semester : 6 (enam)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+JOBSHEET 07 PWL (Pemrograman Website Lanjut)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+Praktikum 1 – Layouting AdminLTE
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Selamat kalian sudah selesai dalam melakukan layouting website di laravel
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/229641a5-6447-4f2c-92aa-eddea560fbdc)
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/1bacb950-4e96-42f5-a90f-3e071cff8007)
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/9d9b81f0-7191-448a-adf6-eda2897f28c1)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Praktikum 2 – Penerapan Layouting
 
-## Laravel Sponsors
+Sekarang kita coba jalankan di browser dengan mengetikkan url 
+http://localhost/PWL_POS/public
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/2b78a504-7903-4213-87ff-c74e8f68a459)
 
-### Premium Partners
+Praktikum 3 – Implementasi jQuery Datatable di AdminLTE
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+16. Sekarang kalian coba untuk melihat detail data user di browser, dan coba untuk mengetikkan id yang salah contoh http://localhost/PWL_POS/public/user/100 amati apa yang terjadi, dan laporkan!!!
 
-## Contributing
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/347a10cb-77da-4995-b331-5d7ef51c52f0)
+view menampilkan pesan 'Data yang anda cari tidak ditemukan' 
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+20. Sekarang kalian coba untuk mengedit data user di browser, amati, pahami, dan laporkan!
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/4b968832-3075-49f7-9958-447ab3f68c23)
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/c9822af6-be1b-49c4-877c-935a625ad059)
 
-## Code of Conduct
+24. Kemudian jalankan browser untuk menghapus salah satu data user. Amati dan laporkan!
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/68570f51-60b8-45a1-936e-b6b850d1a4f2)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+Praktikum 4 – Implementasi Filtering Datatables
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/e2a040d7-2330-4de5-bbd6-97764e172bb2)
 
-## Security Vulnerabilities
+F. PERTANYAAN
+Jawablah pertanyaan berikut sesuai pemahaman materi di atas
+1. Apa perbedaan frontend template dengan backend template?
+2. Apakah layouting itu penting dalam membangun sebuah website?
+3. Jelaskan fungsi dari komponen laravel blade berikut : @include(), @extend(),@section(), @push(), @yield(), dan @stack()
+4. Apa fungsi dan tujuan dari variable $activeMenu ?
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+jawaban :
 
-## License
+1.
+Frontend Template:
+- Frontend template adalah struktur atau kerangka kerja yang digunakan untuk mengatur tampilan dan interaksi pengguna di sisi klien (browser).
+- Biasanya ditulis dengan HTML, CSS, dan JavaScript.
+- Frontend template menangani aspek visual dan interaktif dari sebuah aplikasi web, termasuk tata letak halaman, gaya, animasi,  validasi formulir, dan lainnya.
+- Contoh frontend framework yang populer termasuk Bootstrap, Foundation, dan Materialize.
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Backend Template:
+- Backend template adalah struktur atau kerangka kerja yang digunakan untuk mengatur logika aplikasi dan mengelola data di sisi server.
+- Biasanya ditulis dengan bahasa pemrograman seperti Python, Ruby, Java, PHP, dan sebagainya.
+- Backend template menangani proses pengolahan data, manajemen database, autentikasi pengguna, logika bisnis, dan integrasi dengan layanan eksternal.
+- Contoh backend framework yang populer termasuk Django (Python), Ruby on Rails (Ruby), Laravel (PHP), dan Spring (Java).
+
+2. layouting adalah salah satu aspek penting dalam membangun sebuah website. Layouting berkaitan dengan cara mengatur elemen-elemen visual di halaman web, seperti teks, gambar, tombol, dan formulir, untuk menciptakan tata letak yang estetis dan fungsional.
+
+3. a. $include() untuk mengikutsertakan view lain
+b. @extend() untuk menambah atau memperluas view
+c. @section() untuk menambah konten dinamis
+d. @push() untuk menambah konten bagian @stack
+d. @yield() untuk menerapkan konten dinamis
+e. @stack() untuk menandai tempat penambahan konten oleh @push
+
+4. Variabel $activeMenu biasanya digunakan dalam pengembangan web untuk mengontrol tampilan atau perilaku menu navigasi pada sebuah situs web. Fungsi dan tujuan utama dari variabel $activeMenu adalah untuk menentukan menu mana yang sedang aktif atau sedang dilihat oleh pengguna, sehingga menu tersebut dapat ditampilkan dengan gaya atau tanda yang berbeda untuk membedakannya dari menu lainnya.
+
+Tugas
+
+1. Halaman Manajemen Level
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/ee848dc7-9c08-4e12-811c-41d55ebf4177)
+
+2. Halaman Manajemen User
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/7a6f62b8-bcaa-4819-9a29-2c2d2b828697)
+
+3. Halaman Manajemen Kategori Barang
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/6214822f-3744-4490-987b-ca96615e2c62)
+
+4. Halaman Manajemen Barang
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/00f4c22d-7d99-424c-95ee-ce08690c90e6)
+
+5. Halaman Manajemen Stok Barang
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/199a2636-5b26-4a75-98da-13c4cf33cbe7)
+
+6. Halaman Manajemen Penjualan
+![image](https://github.com/ahmadyusrilmaulana/pemrograman-web-lanjut/assets/161430084/e1707435-53d0-4942-8864-2cf0c083cfbc)
